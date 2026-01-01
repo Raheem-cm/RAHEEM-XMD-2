@@ -1,0 +1,21 @@
+# Ficha folder zote
+*/
+
+# Ruhusu files muhimu
+!.gitignore
+!index.js
+!main.js
+!package.json
+!package-lock.json
+!README.md
+
+# Config (kama unatumia)
+!config.js
+!settings.js
+
+# Lakini ficha data nyeti
+auth_info_baileys/
+session/
+sessions/
+creds.json
+*.json
