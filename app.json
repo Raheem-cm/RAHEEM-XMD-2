@@ -8,7 +8,7 @@
   "env": { 
   
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word RAHEEM-XMD-2>>>",
+      "description": "Ensure your session Id starts with the word RAHEEM-XMD~",
       "required": true,
       "value": ""
     },
